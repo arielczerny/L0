@@ -1,0 +1,182 @@
+Acordar que tuve el problema y tuve que resolverlo, me tomo muchos comandos intentando aprender..
+
+  132  ls
+  133  desktop
+  134  git clone github.com/IIC2115/Syllabus
+  135  git clone http://github.com/IIC2115/Syllabus
+  136  cd Syllabus/
+  137  ls
+  138  git add *
+  139  git commit -m "se sube lab0"
+  140  ls
+  141  git pull
+  142  cd ..
+  143  pwd
+  144  syllabus
+  145  ls
+  146  git clone https://github.com/arielczerny/L0.git
+  147  ls
+  148  cd ..
+  149  git clone https://github.com/arielczerny/L0.git
+  150  git add *
+  151  desktop
+  152  L0
+  153  git add *
+  154  git commit -m "Texto de prueba"
+  155  git push
+  156  git add *
+  157  git commit -m "texto L0"
+  158  git push
+  159  ls
+  160  git status
+  161  git push
+  162  git clone http://www.github.com/IIC2115/Syllabus
+  163  ls
+  164  desktop
+  165  syllabus
+  166  desktop
+  167  Desktop
+  168  http://www.github.com/IIC2115/Syllabus
+  169  git clone http://www.github.com/IIC2115/Syllabus
+  170  git clone https://github.com/arielczerny/L0.git
+  171  L0
+  172  git add *
+  173  git commit -m "Text L0"
+  174  git push
+  175  L0
+  176  desktop
+  177  l0
+  178  git add*
+  179  git add *
+  180  git commit -m "text L0"
+  181  git push
+  182  git push origin master
+  183  git push
+  184  desktop
+  185  l0
+  186  git add *
+  187  git commit -m "text L0"
+  188  ls
+  189  cd ..
+  190  ls
+  191  rm -r L0
+  192  ls
+  193  cd L0
+  194  ls
+  195  cd ..
+  196  rm L0
+  197  rm -r L0
+  198  y
+  199  ls
+  200  git clone https://github.com/arielczerny/L0.git
+  201  cd L0
+  202  ls
+  203  git status
+  204  git pull
+  205  git status
+  206  git add .
+  207  git status
+  208  git commit -m "archivo nuevo"
+  209  git status
+  210  git push
+  211  git config --global credential.helper osxkeychain
+  212  git push
+  213  git config --global credential.helper osxkeychain
+  214  git config --global --unset user.password
+  215  git push
+  216  git config --global --unset user.password
+  217  git config --global credential.helper osxkeychain
+  218  git status
+  219  git push
+  220  cd ..
+  221  L0
+  222  git add *
+  223  git commit -m "archivo nuevo"
+  224  git status
+  225  git push
+  226  erase
+  227  gi erase
+  228  git erase
+  229  git config --global credential.helper read-only --file /mnt/shared/creds
+  230  unset-all
+  231  git unset - all
+  232  reset
+  233  git push
+  234  reset
+  235  git add .
+  236  git push
+  237  git push -u origin master
+  238  git config --global user.email "aaczerny@uc.cl"
+  239  git config --global user.name "arielczerny"
+  240  git push -u origin master
+  241  git init
+  242  cd ..
+  243  mkdir example
+  244  cd example
+  245  git clone https://github.com/arielczerny/L0/
+  246  cd L0
+  247  git add *
+  248  git commit -m "test"
+  249  git push -u origin master
+  250  sudo apt-get install git
+  251  sudo brew  install git
+  252  git push -u origin master
+  253  desktop
+  254  l0
+  255  git add *
+  256  git commit -m "archivo nuevo"
+  257  git push -u origin master
+  258  git add *
+  259  git commit -m "archivo nuevo"
+  260  git push
+  261  git config user.email "arielczerny@gmail.com"
+  262  git config user.name "arielczerny"
+  263  git add *
+  264  git commit -m "test"
+  265  git push
+  266  exit
+  267  cls
+  268  clear
+  269  reset
+  270  ls
+  271  desktop
+  272  cm ..
+  273  cw ..
+  274  cn ..
+  275  cr ..
+  276  pwd
+  277  L0
+  278  git status
+  279  git add *
+  280  git commit -m "pfvr"
+  281  git push -u origin master
+  282  git push
+  283  desktop
+  284  l0
+  285  git add *
+  286  git commit -m "ahora si"
+  287  git push
+  288  git push -u origin master
+  289  git push -m original master
+  290  git push -u original master
+  291  git push -u origin master
+  292  git push
+  293  git push -u origin master
+  294  git config --global user.name "arielczerny"
+  295  git config --global user.email aaczerny@uc.cl
+  296  git config --list
+  297  git push -u origin master
+  298  desktop
+  299  l0
+  300  git add *
+  301  git commit -m "hola"
+  302  git push
+  303  desktop
+  304  l0
+  305  git push
+  306  cd desktop
+  307  git add .
+  308  descktop
+  309  desktop
+  310  l0
+  311  git pull
